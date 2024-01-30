@@ -128,5 +128,5 @@ invalidity of the proof, enabling a meticulous and secure assessment of whether 
 assets meet the predefined threshold as shown in Fig.4.
 
 ![Logo](https://github.com/VinayPolisetti/zkShield/blob/main/assets/Screenshot%20(118).png?raw=true)
-Fig.3 Pictorial Representation of the Proof Generation II
+Fig.4 Pictorial Representation of the Proof Generation II
 
